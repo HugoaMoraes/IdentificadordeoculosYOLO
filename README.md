@@ -4,9 +4,9 @@
 
 # Projeto Final DIO
 
-### Identificador de Óculos YOLO
+### Identificador de Óculos YOLO.v5
 
-Um pequeno projeto usando a rede YOLO.v5 para identificar óculos em pessoas.
+Um pequeno projeto usando a rede YOLO.v5 para identificar óculos em pessoas. Usando métodos de Machine Learning na aplicação.
 
 ## Autor
 
